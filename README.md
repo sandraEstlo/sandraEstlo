@@ -17,10 +17,6 @@ Además, mi experiencia en gestión de proyectos 📋 y atención al cliente �
 
 Estoy buscando oportunidades para aplicar mi visión creativa y técnica 📈 y contribuir desde el primer día. ¡Hablemos si compartes esta visión!
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sandra-esteban-l%C3%B3pez-desarrolladora/) 
-
 # 💻 Tech Stack:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -83,3 +79,6 @@ Estoy buscando oportunidades para aplicar mi visión creativa y técnica 📈 y 
   </tr>
 </table>
 
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sandra-esteban-l%C3%B3pez-desarrolladora/) 
