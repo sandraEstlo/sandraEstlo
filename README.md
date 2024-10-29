@@ -8,6 +8,7 @@
   - 🔄 Adaptarme a entornos cambiantes
   - ⚡ Resolver problemas con rapidez
   - 💬 Comunicarme de forma asertiva y efectiva
+  - 📋 Organización y administración del tiempo
 
 🎯 **En Búsqueda de Nuevas Oportunidades**
 - Estoy buscando oportunidades para aplicar mi visión creativa y técnica 📈 y contribuir desde el primer día. ¡Hablemos si compartes esta visión!
