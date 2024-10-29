@@ -4,7 +4,6 @@
 
 Desde mis inicios en el 🖌️ **arte y diseño** y mi interés por cómo la 💻 **tecnología** puede transformar nuestra vida cotidiana, me llevó a explorar el **desarrollo de software**, estudiando el grado superior de desarrollo de aplicaciones multiplataforma.
 <br></br>
-
 📊 **Gestión de Proyectos & Atención al Cliente**
 
 Además, mi experiencia en gestión de proyectos 📋 y atención al cliente 🤝 me ha enseñado a:
@@ -13,7 +12,6 @@ Además, mi experiencia en gestión de proyectos 📋 y atención al cliente �
   <li>Resolver problemas con rapidez ⚡,</li>
   <li>Comunicarme de forma asertiva y efectiva 💬.</li>
 </ul>
-<br></br>
 
 🎯 **En Búsqueda de Nuevas Oportunidades**
 
