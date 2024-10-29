@@ -55,13 +55,12 @@ Estoy buscando oportunidades para aplicar mi visión creativa y técnica 📈 y 
 ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-
 ![Rhinoceros 3D](https://img.shields.io/badge/rhinoceros%203d-801010?style=for-the-badge&logo=rhinoceros&logoColor=white)
+![Grasshopper](https://img.shields.io/badge/Grasshopper-7A9E46?style=for-the-badge&logo=grasshopper&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-%23D00000.svg?style=for-the-badge&logo=autocad&logoColor=white)
-![SketchUp](https://img.shields.io/badge/SketchUp-%23#005F9E.svg?style=for-the-badge&logo=sketchup&logoColor=white)
 ![V-Ray](https://img.shields.io/badge/V--Ray-%23FFD700.svg?style=for-the-badge&logo=vray&logoColor=black)
 ![KeyShot](https://img.shields.io/badge/KeyShot-%23141414.svg?style=for-the-badge&logo=keyshot&logoColor=white)
-![Grasshopper](https://img.shields.io/badge/Grasshopper-7A9E46?style=for-the-badge&logo=grasshopper&logoColor=white)
+
 
 # 📊 GitHub Stats:
 
